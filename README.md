@@ -14,7 +14,7 @@ How to install
         mkdir -p ~/.oh-my-zsh/custom/plugins && cd ~/.oh-my-zsh/custom/plugins
         git clone https://github.com/peaceman/zsh-svn-multi-version.git
         
-* Add the plugin to the plugins list in `~/.zshrc`
+* Add `zsh-svn-multi-version` to the plugin list in `~/.zshrc`
 * Source `~/.zshrc` or open a new shell to apply the changes
 
         source ~/.zshrc
